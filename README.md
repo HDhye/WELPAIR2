@@ -22,8 +22,11 @@
 
 ### ⚙️ 개발 환경
 Back-End: Java 11, Springboot(2.x)
+<br>
 Database : Oracle DB(11xe)
+<br>
 ORM : MyBatis
+<br>
 Front-End: Node.js, Thymeleaf, Jquery 
 
 ## 📌 주요 기능 <a href="https://github.com/HDhye/WELPAIR2/wiki/%EC%9B%B0%ED%8E%98%EC%96%B4%EB%AA%B0"> - 상세 보기(wiki 이동)
